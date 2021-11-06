@@ -1,5 +1,5 @@
 {
-  "name": "@'jashworth/greeting",
+  "name": "@jashworth/greeting",
   "description": "typescript library starter using vite",
   "version": "0.0.0-development",
   "private": true,
@@ -19,6 +19,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "lint": "eslint .",
     "semantic-release": "semantic-release"
   },
   "devDependencies": {
