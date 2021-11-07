@@ -20,7 +20,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint .",
-    "semantic-release": "semantic-release"
+    "release": "semantic-release --dry-run --no-ci"
   },
   "devDependencies": {
     "@commitlint/cli": "^14.1.0",
