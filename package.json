@@ -2,7 +2,6 @@
   "name": "@jashworth/greeting",
   "description": "typescript library starter using vite",
   "version": "0.0.0-development",
-  "private": true,
   "main": "dist/greeting.cjs.js",
   "module": "dist/greeting.es.js",
   "files": [
